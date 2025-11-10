@@ -10,7 +10,7 @@ All configurations have to be made inside the c file, but I've left some comment
 
 
 
-# Prerequesites
+# Prerequisite
 
 1. GCC
 
