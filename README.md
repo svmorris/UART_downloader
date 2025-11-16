@@ -1,5 +1,5 @@
 # UART_downloader
-This script downloads files from a UART connection. It can even download entire disks or partitions.
+This script downloads files over a UART connection. It can even download entire disks or partitions.
 
 
 ## Small warning
